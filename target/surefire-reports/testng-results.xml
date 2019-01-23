@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="7268" started-at="2019-01-23T22:32:58Z" finished-at="2019-01-23T22:33:05Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="7268" started-at="2019-01-23T22:32:58Z" finished-at="2019-01-23T22:33:05Z">
+      <class name="test.TestCases">
+        <test-method status="PASS" signature="setDriver()[pri:0, instance:test.TestCases@41f69e84]" name="setDriver" is-config="true" duration-ms="1227" started-at="2019-01-23T22:32:58Z" finished-at="2019-01-23T22:32:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setDriver -->
+        <test-method status="PASS" signature="test()[pri:0, instance:test.TestCases@41f69e84]" name="test" duration-ms="4873" started-at="2019-01-23T22:32:59Z" finished-at="2019-01-23T22:33:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="tearDownPage()[pri:0, instance:test.TestCases@41f69e84]" name="tearDownPage" is-config="true" duration-ms="1138" started-at="2019-01-23T22:33:04Z" finished-at="2019-01-23T22:33:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownPage -->
+      </class> <!-- test.TestCases -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
